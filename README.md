@@ -1,5 +1,4 @@
 # NMEA_Data_Parsing
-########################################################################################################################
 # Coding Exercise – Techworks Marine
 # @author ERDOGAN BERKE KOCAR
 
